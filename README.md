@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently looking for an intership<br>
+Je suis actuellement en troisième année de BUT Informatique à l’IUT du Littoral Côte d’Opale à Calais<br>
 
 
 ## 🌐 Socials:
