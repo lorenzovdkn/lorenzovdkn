@@ -3,7 +3,7 @@ Je suis actuellement en troisième année de BUT Informatique à l’IUT du Litt
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lorenzo-vandenkoornhuyse-08430b327) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lorenzo-vandenkoornhuyse-08430b327)<br/>
 [![Portfolio](./logo.svg)](https://lorenzovdkn.fr)
 
 # 💻 Tech Stack:
